@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github](https://github.com/akhil-sharma/QRCodeComponent)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://akhil-sharma.github.io/QRCodeComponent/](https://akhil-sharma.github.io/QRCodeComponent/)
 
 ## My process
 
@@ -35,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-I want focus more on indivivdually targetting different devices using the media queries. I have not used them in this project and rely on using relative units like rem. 
+I want to focus more on individually targeting different devices using the media queries. I have not used them in this project and rely on relative units like rem. 
 
 ## Author
 
